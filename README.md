@@ -1,1 +1,2 @@
+This site is meant to be a cross-computer habit log I intend to update over time as I learn more webdev skills. Current intended progression of successive overhauls is: bare html, add css, add react
 # habit-site
